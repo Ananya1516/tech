@@ -1,0 +1,259 @@
+.a{
+	height:2900px;
+	width:800px;
+	background-color: gray;
+}
+.b
+{
+	height:400px;
+	width:800px;
+	background-color:orange;
+	text-align:center;
+	padding:15px;
+}
+.h h2{
+	margin-top: 100px;
+	margin-left: 20px;
+}
+.c
+{
+	height:600px;
+	width:800px;
+	background-color: white;
+}
+.xyz{
+	height:100px;
+	width:1000px;
+}
+.xyz h1{
+	text-align:center;
+	line-height: 10px;
+}
+.xyz p{
+	text-align:center;
+	line-height:0.1px;
+}
+.one{
+	height:200px;
+	width:230px;
+	float:left;
+	margin:10px;
+	background-image: url('onlineimages/ones.png');
+	background-size:cover;
+
+}
+.two{
+	height:200px;
+	width:230px;
+	background-image: url('onlineimages/two.jpeg');
+    float:left;
+    margin:10px;
+    background-size:cover;
+}
+.three{
+	height:200px;
+	width:230px;
+	background-color: yellow;
+	float:right;
+	margin:10px;
+	margin-right:50px;
+	background-image: url('onlineimages/thrre.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.four{
+	height:200px;
+	width:230px;
+	background-color: pink;
+	float:left;
+	margin:10px;
+	background-image: url('onlineimages/four.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+.five{
+	height:200px;
+	width:230px;
+	background-color: green;
+	float:left;
+	margin:10px;
+	background-image: url('onlineimages/five.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	
+    
+
+}
+.six{
+	height:200px;
+	width:230px;
+	background-color: lawngreen;
+	float:right;
+	background-image: url('onlineimages/six.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+.d
+{
+	height:400px;
+	width:800px;
+	background-color:whitesmoke;
+
+}
+.e
+{
+	height:400px;
+	width:800px;
+	background-color:black;
+
+}
+.f
+{
+	height:600px;
+	width:800px;
+	background-color: lavender;
+
+}
+.n{
+	height:400px;
+	width:800px;
+	background-color:green;
+}
+
+.s{
+	height:200px;
+	width:800px;
+	background-color:white;
+	
+}
+.p{
+	height:400px;
+	width:400px;
+	float:left;
+	background-color: white;
+}
+.q{
+	height:400px;
+	width:400px;
+	float:right;
+	background-image: url('onlineimages/man.jpeg');
+}
+.g
+{
+	height:400px;
+	width:800px;
+	background-color:green;
+
+}
+.h{
+	height:400px;
+	width:400px;
+	float:left;
+}
+#i{
+	height:400px;
+	width:400px;
+	float:right;
+	background-image: url('onlineimages/manphone.jpeg');
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+.j{
+	height:400px;
+	width:400px;
+	float:left;
+
+}
+#k{
+	height:400px;
+	width:400px;
+	float:right;
+	background-image: url('onlineimages/manscreaming.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.j h1{
+	color:yellow;
+	margin-left:50px;
+	margin-top:100px;
+}
+.j h2{
+	line-height: 0.1px;
+}
+.j p{
+	text-align:justify; 
+
+}
+.j button{
+	margin-left:70px;
+	border:1px,solid,yellow;
+	background-color: yellow;
+
+}
+.l{
+	height:400px;
+	width:400px;
+	float:left;
+}
+.abc{
+	color:white;
+	margin-top:70px;
+	margin-left:70px;
+	line-height: 25px;
+	}
+.ab{
+	color:white;
+	margin-left:70px;
+	line-height: 25px;
+}
+#m{
+	height:400px;
+	width:400px;
+	float:right;
+	background-image: url('onlineimages/girlsmile.jpeg');
+	background-repeat: no-repat;
+	background-size:cover;
+
+}
+.abcd{
+	color:white;
+	text-align:justify;
+	line-height: 25px;
+	margin-left:70px;
+
+}
+.s h1{
+	text-align: center;
+
+}
+.s pre{
+	text-align:center;
+	line-height:14px ;
+
+}
+.t i
+{
+	font-size:50px;
+	margin-left:70px;
+}
+#g{
+	margin-top:15px;
+	font-size: 100px;
+	text-align:center;
+}
+.sample{
+	word-break: break-all;
+	text-align:justify;
+}
+.get{
+	text-align:center;
+
+}
+
