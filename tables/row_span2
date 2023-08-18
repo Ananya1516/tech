@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title>ROW_SPAN2</title>
+</head>
+<body>
+	<center>
+	<table>
+		<tr>
+			<th colspan="4">TITLE</th>
+		<tr/>
+		<tr>
+			<th colspan="2">subtitle</th>
+			<th colspan="2">subtitle</th>
+		</tr>
+		
+		
+
+		
+

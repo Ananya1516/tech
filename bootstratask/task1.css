@@ -1,0 +1,12 @@
+.a{
+	width:500px;
+	height:400px;
+	box-sizing:0 4px 8px;
+}
+.b{
+	height:100px;
+	width:100px;
+}
+.marg{
+	margin-left:25%;
+}

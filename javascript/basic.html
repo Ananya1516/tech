@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<script type="text/javascript" src="basic.js"></script> 
+</head>
+<body>
+	<script>
+		// var a=10;
+		// var b=20;
+		// var c=30;
+		// var name="anu";
+		// // window.alert(a);
+		// // alert(a);
+		// name +="sim"
+		// console.log(b);
+		// document.write("WELCOME JAVASCRIPT WORLD </br>");
+		// document.write(name);
+		// document.write("The value of c is ",c+ "<br>");
+		// document.write(name.length+ "<br>")
+		// document.write(name);
+		// var name="reka";
+		// var name2="ramya";
+		// var name3="geetha";
+		// document.write(name+ "&nbsp;");
+		// document.write(name2 ",");
+		// documnet.write(name3);
+		// var name="reka&nbsp;"
+		// name+="ramya"
+		// name+=",geetha"
+		// document.write(name)
+		// var a=10.23
+		// document.write(typeof(a)+ "</br>")
+		// var b
+		// b+='Ananya'
+		// document.write(b+ "</br>")
+		// var g='true'
+		// document.write(typeof(g)+ "</br>")
+		// var k=true
+		// document.write(typeof(k)+ "</br>")
+		// var arr=['sindhu', '1', 'statya',true]
+		// document.write(arr+ "</br>")
+		// document.write(arr[2])
+		// console.log(arr)
+		// arr=["Ananya","RAMYA","MANASA","YASASWI"]
+		// document.write(arr[1], "&nbsp", arr[2], "</br>")
+		// document.write(arr[1]+   "          ")
+		// document.write(arr[2])
+		// var obf = {
+		// 	name:"Ananya"
+		// }
+		// console.log(obf.name)
+		var obj =[{
+			'name':'Ananya',
+			'no':'N7',
+			'college':'AEC'
+
+		},
+		{
+			'name':'Ramya',
+			'no':'I6',
+			'college':'AEC'
+
+		},
+		{
+			'name':'MANASA',
+			'no':'420',
+			'college':'AEC'
+
+		},
+		{
+			'name':'Yasaswi',
+			'no':'N4',
+			'college':'AEC'
+
+		},
+		{
+			'name':'ESTHER',
+			'no':'I6',
+			'college':'AEC'
+
+		},
+		]
+		// console.log(obj.name)
+		// console.log(obj)
+		// document.write(obj)
+		// document.write(obj.name)
+		// console.log(obj[0].name)
+		// console.log(obj[1].name)
+		// console.log(obj)
+		for(var i=0;i<obj.length ;i++){
+			console.log(i+1,obj[i].name,obj[i].no,obj[i].college)
+
+		}
+		for(let i in Object.keys(obj))
+		{
+			for(let j in obj[i]){
+				document.write(obj[i][j]+" ");
+
+			}	
+			document.write("<br>")	
+		}
+		alert("SUCCESS. ");
+		// var c=confirm("ARE YOU SURE DELETE THE RECORD");
+		// document.write(c);
+		// var a=prompt("enter the value");
+		// document.write(a);
+		// var a=prompt("enter the value");
+		// document.write(eval(a));
+		// var a=prompt("enter the value");
+		// var b=prompt("enter the value");
+		// document.write(Number(a)+Number(b));
+		var num1 = parseInt(prompt('Enter the first number '));
+        const num2 = parseInt(prompt('Enter the second number '));
+        const sum = num1 + num2;
+        // document.write(sum);
+        // let b=20;
+        // // let b=30;  redeclaration is not possible
+        // document.write(b);
+        // b=30; 
+        // // reintialization is not possible
+        // document.write(b);
+        // {
+        // 	let c=30;
+        // 	document.write(c);
+        // }
+        // // document.write(c);
+        // not possible bcoz of c is block space variable
+        // const pi=3.14;
+        // // pi=4.20;
+        // document.write(pi);
+        var a="ANANYA";
+        let b="ANU";
+        const c="Akhi";
+        document.write(a+" "+b+ " "+c);
+
+	</script> 
+	
+
+</body>
+</html>
